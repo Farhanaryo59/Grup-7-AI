@@ -12,7 +12,7 @@
 
 **> Selection**
 
-Metode yang digunakan dalam fungsi **selection** di atas adalah "Selection by Rank" atau "Rank-Based Selection." Pada metode ini, individu-individu dalam populasi diurutkan berdasarkan nilai fitness mereka, dan kemudian sejumlah tertentu dari individu dengan peringkat terbaik dipilih untuk membentuk populasi berikutnya. Dalam hal ini, sejumlah **n_parents** individu dengan peringkat tertinggi dipilih untuk menjadi bagian dari populasi berikutnya.
+Metode yang digunakan dalam fungsi **selection** di gunakan adalah "Selection by Rank" atau "Rank-Based Selection." Pada metode ini, individu-individu dalam populasi diurutkan berdasarkan nilai fitness mereka, dan kemudian sejumlah tertentu dari individu dengan peringkat terbaik dipilih untuk membentuk populasi berikutnya. Dalam hal ini, sejumlah **n_parents** individu dengan peringkat tertinggi dipilih untuk menjadi bagian dari populasi berikutnya.
 
 Metode ini sering digunakan dalam algoritma genetika untuk memastikan bahwa individu-individu dengan fitness yang lebih tinggi memiliki peluang yang lebih besar untuk ditransfer ke generasi berikutnya, sehingga meningkatkan kualitas keseluruhan populasi dari generasi ke generasi.
 
