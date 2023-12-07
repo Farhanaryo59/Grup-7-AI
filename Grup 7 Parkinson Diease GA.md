@@ -12,8 +12,8 @@
 
 **Crossover**
 
-Metode yang digunakan dalam fungsi crossover di atas adalah One-Point Crossover. Dalam One-Point Crossover, sejumlah individu dari populasi yang dipilih secara berpasangan dipotong pada titik tertentu, dan bagian-bagian sebelah kiri dan kanan dari titik potong tersebut dipertukarkan antara dua individu tersebut untuk menghasilkan dua anak baru.
+Metode yang digunakan dalam fungsi crossover di gunakan adalah One-Point Crossover. Dalam One-Point Crossover, sejumlah individu dari populasi yang dipilih secara berpasangan dipotong pada titik tertentu, dan bagian-bagian sebelah kiri dan kanan dari titik potong tersebut dipertukarkan antara dua individu tersebut untuk menghasilkan dua anak baru.
 
 **Mutation**
 
-Metode yang digunakan dalam fungsi **mutation** di atas adalah **Mutasi Bitwise**. Mutasi ini dilakukan dengan mengubah nilai bit acak dalam kromosom, yaitu dengan meng-invert (mengganti dari 0 menjadi 1 atau sebaliknya) nilai bit pada posisi tertentu. Hal ini dilakukan dengan probabilitas tertentu (dikontrol oleh **mutation_rate**).
+Metode yang digunakan dalam fungsi **mutation** di gunakan adalah **Mutasi Bitwise**. Mutasi ini dilakukan dengan mengubah nilai bit acak dalam kromosom, yaitu dengan meng-invert (mengganti dari 0 menjadi 1 atau sebaliknya) nilai bit pada posisi tertentu. Hal ini dilakukan dengan probabilitas tertentu (dikontrol oleh **mutation_rate**).
