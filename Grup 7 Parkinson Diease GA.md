@@ -10,4 +10,4 @@
 
 **Parkinson Disease**
 
-
+Metode yang digunakan dalam fungsi **mutation** di atas adalah **Mutasi Bitwise**. Mutasi ini dilakukan dengan mengubah nilai bit acak dalam kromosom, yaitu dengan meng-invert (mengganti dari 0 menjadi 1 atau sebaliknya) nilai bit pada posisi tertentu. Hal ini dilakukan dengan probabilitas tertentu (dikontrol oleh **mutation_rate**).
